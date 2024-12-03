@@ -1,0 +1,32 @@
+/* Breadcrumb.css */
+.breadcrumbComponent_container {
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    color: #555;
+    padding: 0.5rem 1rem;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.breadcrumbComponent_link {
+    color: #3a5af9;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.breadcrumbComponent_link:hover {
+    color: #1d3db5;
+}
+
+.breadcrumbComponent_active {
+    color: #333;
+    font-weight: bold;
+}
+
+.breadcrumbComponent_separator {
+    margin: 0 0.5rem;
+    color: #aaa;
+}

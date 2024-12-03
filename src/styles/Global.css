@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+}
+  
+.pages {
+    margin-left: 250px;
+}
+
+.pagecontainer {
+    margin: 10px;
+}
+
+/* Text */
+.text-align-center {
+    text-align: center;
+}
+
+.text-align-end {
+    text-align: end;
+}
+
+.text-align-justify {
+    text-align: justify;
+}
+/*  */
+
+/* margin-top */
+.margin-top-10-px {
+    margin-top: 10px;
+}
+
+.margin-right-5px {
+    margin-right: 5px;
+}
+
+.margin-left-5px {
+    margin-left: 5px;
+}
+
+.margin-right-5px_margin-left-5px {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.margin-top-20-px {
+    margin-top: 20px;
+}
+/*  */
+
+/* width */
+.width-15-percent {
+    width: 15%;
+}
+
+.width-25-percent {
+    width: 25%;
+}
+
+.width-40-percent {
+    width: 40%;
+}
+
+.width-50-percent {
+    width: 50%;
+}
+
+.width-75-percent {
+    width: 75%;
+}
+
+.width-100-percent {
+    width: 100%;
+}
+/*  */
+
+/* display */
+.display-flex {
+    display: flex;
+}
+
+.flex-direction-row-reverse {
+    flex-direction: row-reverse;
+}
+
+.justify-content-space-between {
+    justify-content: space-between;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-items-center {
+    justify-items: center;
+}
+
+.align-items-center {
+    align-items: center;
+}
+/*  */
+
+/* padding */
+.padding-15-px {
+    padding: 15px;
+}
+/*  */
+
+/* Cores de textos */
+.color-red {
+    color: red;
+}
+/*  */

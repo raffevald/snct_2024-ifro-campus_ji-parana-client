@@ -1,0 +1,3 @@
+Comando para instala o types do js cookies
+    npm install --save-dev @types/js-cookie 
+
